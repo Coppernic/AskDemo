@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASK Demo</string>
+    <string name="card_type">Card Type</string>
+    <string name="atr">ATR</string>
+    <string name="read_count">Read Count</string>
+    <string name="no_tag_read_yet">No tag read yet</string>
+</resources>
